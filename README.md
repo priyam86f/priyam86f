@@ -3,11 +3,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Java%20Developer;🧠Problem%20Solving(DSA)).
 
-- 🧠 250+ DSA Problems Solved on LeetCode
+- 🧠 250+ DSA Problems Solved on LeetCode https://leetcode.com/u/priyam6f4/
 - 🎯 Solving NeetCode 150
 - 🛠️ Learning to build good Backend services
 - 🔥 Learning Advanced JavaScript and its Frameworks
 - 📲 How to reach me: priyamatwork24@gmail.com
+- 📩 Let's connect on LinkedIN! https://www.linkedin.com/in/priyam-mehta-a66a482a3/
 
 ### ⚙️ Tech Stack
 #### Programming Languages
